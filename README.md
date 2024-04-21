@@ -2,4 +2,4 @@
 
 Данный бот написан с использованием библиотек PyTorch и Aiogram 3.x
 
-*Для таого чтобы воспользоваться ботом, необходимо найти его в телеграме @MagicTransferBot (https://t.me/MagicTransferBot)*
+*Для того чтобы воспользоваться ботом, необходимо найти его в телеграме @MagicTransferBot (https://t.me/MagicTransferBot)*
